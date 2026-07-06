@@ -15,19 +15,31 @@
   "headline": "Sanitätserneuerung Karlsruhe",
   "subline": "Ihre Heizung und Sanitäranlage in Top-Schaltung.",
   "ueber_titel": "Schlechtendahl GmbH - Zuverlässige Sanitär- & Heizungs-Lösungen",
-  "ueber_text": "Seit vielen Jahren bieten wir den Bürgern von Karlsruhe qualitativ hochwertige und zuverlässige Sanitärbau- und Heizungslösungen an. Unsere Kunden profitieren von unserem umfassenden Wissen und unserer langjährigen Erfahrung.",
+  "ueber_text": "Schlechtendahl GmbH ist seit vielen Jahren ein vertrauenswürdiger Partner in Karlsruhe. Unsere Expertise im Sanitärbau und Heizungsanlagenbau basiert auf langjährigen Erfahrungen und einem tiefen Verständnis für die Bedürfnisse unserer Kunden. Wir legen großen Wert auf Qualität, Zuverlässigkeit und persönliche Betreuung.",
   "leistungen": [
     {
-      "titel": "Heizungsinstallation",
-      "text": "Professionelle Installation für eine optimale Leistung."
-    },
-    {
       "titel": "Sanitärbau",
-      "text": "Individuelle Lösungen für alle Anforderungen im Sanitätstechnik-Bereich."
+      "text": "Individuelle Lösungen für komplexe Anforderungen"
     },
     {
-      "titel": "Wartung & Reparatur",
-      "text": "Sofortige und zuverlässige Unterstützung rund um die Uhr."
+      "titel": "Heizungsbau",
+      "text": "Effiziente Wärmeversorgung mit modernen Technologien"
+    },
+    {
+      "titel": "Installationsarbeiten",
+      "text": "Schnelle und zuverlässige Montage unserer Produkte"
+    },
+    {
+      "titel": "Wartungs- und Reparaturdienstleistungen",
+      "text": "Langfristig sichere Nutzung durch regelmäßiges Überprüfen"
+    },
+    {
+      "titel": "Kundenservice",
+      "text": "Direkte Unterstützung rund um die Uhr für alle Fragen"
+    },
+    {
+      "titel": "Projektplanung",
+      "text": "Personalisierte Konzepte für neue und bestehende Anlagen"
     }
   ],
   "cta_text": "Ihre Heizungsanlage jetzt prüfen lassen!",
@@ -64,5 +76,35 @@
   "taste_applied": true,
   "about_image": "/static/img/about_ph.svg",
   "placeholder_images": true,
-  "hero_refresh_version": 7
+  "hero_refresh_version": 7,
+  "impressum": "Impressum\n\nAngaben gemäß § 5 DDG\n\nSchlechtendahl GmbH\nRheinbergstr. 12 76187 Karlsruhe (Knielingen)\n\nVertreten durch:\n[bitte ergänzen]\n\nKontakt:\nTelefon: [bitte ergänzen]\nE-Mail: info@schka.de\n\nUmsatzsteuer-ID:\nUmsatzsteuer-Identifikationsnummer gemäß § 27 a Umsatzsteuergesetz: [bitte ergänzen]\n\nVerbraucherstreitbeilegung/Universalschlichtungsstelle:\nWir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.\n\nHaftung für Inhalte:\nAls Diensteanbieter sind wir gemäß § 7 Abs.1 DDG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt.",
+  "datenschutz": "Datenschutzerklärung\n\n1. Datenschutz auf einen Blick\nDie folgenden Hinweise geben einen einfachen Überblick darüber, was mit Ihren personenbezogenen Daten passiert, wenn Sie diese Website besuchen. Personenbezogene Daten sind alle Daten, mit denen Sie persönlich identifiziert werden können.\n\n2. Verantwortliche Stelle\nSchlechtendahl GmbH\nRheinbergstr. 12 76187 Karlsruhe (Knielingen)\nTelefon: [bitte ergänzen]\nE-Mail: info@schka.de\nAnsprechpartner: [bitte ergänzen]\n\n3. Erfassung von Daten / Kontaktformular\nWenn Sie uns über das Kontaktformular oder per E-Mail kontaktieren, werden Ihre Angaben inklusive der von Ihnen dort angegebenen Kontaktdaten zwecks Bearbeitung der Anfrage und für den Fall von Anschlussfragen bei uns gespeichert. Rechtsgrundlage ist Art. 6 Abs. 1 lit. b DSGVO (Anbahnung/Erfüllung eines Vertrags) bzw. Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse an der Beantwortung). Diese Daten geben wir nicht ohne Ihre Einwilligung weiter.\n\n4. Hosting & Server-Log-Dateien\nDer Provider der Seiten erhebt und speichert automatisch Informationen in sogenannten Server-Log-Dateien (Browsertyp, Betriebssystem, Referrer-URL, Hostname, Uhrzeit). Diese Daten sind nicht bestimmten Personen zuordenbar und dienen der technischen Sicherheit.\n\n5. Ihre Rechte\nSie haben jederzeit das Recht auf Auskunft, Berichtigung, Löschung oder Einschränkung der Verarbeitung Ihrer Daten, ein Widerspruchsrecht sowie das Recht auf Datenübertragbarkeit (Art. 15–21 DSGVO). Zudem steht Ihnen ein Beschwerderecht bei einer Aufsichtsbehörde zu.\n\n6. SSL-/TLS-Verschlüsselung\nDiese Seite nutzt aus Sicherheitsgründen eine SSL-/TLS-Verschlüsselung.",
+  "agb": "Allgemeine Geschäftsbedingungen (AGB)\n\n1. Geltungsbereich\nDiese AGB gelten für alle Verträge und Leistungen zwischen Schlechtendahl GmbH (nachfolgend „Auftragnehmer\") und dem Kunden, soweit nicht ausdrücklich etwas anderes vereinbart wurde.\n\n2. Angebot und Vertragsschluss\nAngebote sind freibleibend. Ein Vertrag kommt durch Auftragsbestätigung bzw. Ausführung der Leistung zustande.\n\n3. Leistungen und Preise\nArt und Umfang der Leistung ergeben sich aus der jeweiligen Vereinbarung. Es gelten die zum Zeitpunkt des Vertragsschlusses vereinbarten Preise zzgl. der gesetzlichen Umsatzsteuer.\n\n4. Zahlungsbedingungen\nRechnungen sind, sofern nicht anders vereinbart, innerhalb von 14 Tagen nach Rechnungsstellung ohne Abzug zur Zahlung fällig.\n\n5. Gewährleistung und Haftung\nEs gelten die gesetzlichen Gewährleistungsregelungen. Die Haftung für leicht fahrlässige Pflichtverletzungen ist ausgeschlossen, soweit keine wesentlichen Vertragspflichten betroffen sind oder Schäden aus der Verletzung von Leben, Körper oder Gesundheit resultieren.\n\n6. Schlussbestimmungen\nEs gilt das Recht der Bundesrepublik Deutschland. Sollte eine Bestimmung unwirksam sein, bleibt die Wirksamkeit der übrigen Bestimmungen unberührt.",
+  "lat": 49.03514680000001,
+  "lng": 8.3346374,
+  "fotos_graded": true,
+  "faq": [
+    {
+      "frage": "Was sind Ihre Arbeitszeiten?",
+      "antwort": "Wir stehen Ihnen Montag bis Freitag von 8:00 bis 17:30 Uhr zur Verfügung."
+    },
+    {
+      "frage": "Bietet Ihr Unternehmen eine Garantie für die Leistungen?",
+      "antwort": "Ja, wir bieten eine einjährige Garantie auf alle unsere Arbeiten."
+    },
+    {
+      "frage": "Wie lange dauert der Installationsprozess?",
+      "antwort": "Die Dauer hängt von der Komplexität des Projekts ab und wird individuell besprochen."
+    },
+    {
+      "frage": "Werden Ihre Mitarbeiter ausgebildet?",
+      "antwort": "Unsere Fachkräfte sind kontinuierlich in den neuesten Technologien und Methoden geschult."
+    }
+  ],
+  "trust": [
+    "Langjährige Erfahrung im Sanitärbau",
+    "Garantie auf alle Arbeiten",
+    "Personalisierte Kundenservice"
+  ],
+  "content_enriched": true
 }

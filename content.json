@@ -1,0 +1,67 @@
+{
+  "site_name": "Schlechtendahl GmbH",
+  "branche": "Sanitär",
+  "stadt": "Karlsruhe",
+  "telefon": "",
+  "email": "",
+  "adresse": "Rheinbergstr. 12 76187 Karlsruhe (Knielingen)",
+  "akzent": "#00BFFF",
+  "fotos": [
+    "/static/img/gal_ph1.svg",
+    "/static/img/gal_ph2.svg",
+    "/static/img/gal_ph3.svg"
+  ],
+  "hero_image": "/static/img/hero.png",
+  "headline": "Sanitätserneuerung Karlsruhe",
+  "subline": "Ihre Heizung und Sanitäranlage in Top-Schaltung.",
+  "ueber_titel": "Schlechtendahl GmbH - Zuverlässige Sanitär- & Heizungs-Lösungen",
+  "ueber_text": "Seit vielen Jahren bieten wir den Bürgern von Karlsruhe qualitativ hochwertige und zuverlässige Sanitärbau- und Heizungslösungen an. Unsere Kunden profitieren von unserem umfassenden Wissen und unserer langjährigen Erfahrung.",
+  "leistungen": [
+    {
+      "titel": "Heizungsinstallation",
+      "text": "Professionelle Installation für eine optimale Leistung."
+    },
+    {
+      "titel": "Sanitärbau",
+      "text": "Individuelle Lösungen für alle Anforderungen im Sanitätstechnik-Bereich."
+    },
+    {
+      "titel": "Wartung & Reparatur",
+      "text": "Sofortige und zuverlässige Unterstützung rund um die Uhr."
+    }
+  ],
+  "cta_text": "Ihre Heizungsanlage jetzt prüfen lassen!",
+  "seo_title": "Schlechtendahl GmbH - Sanitär- & Heizungsbau Karlsruhe",
+  "seo_desc": "Schlechtendahl GmbH bietet in Karlsruhe qualifizierte Sanitärbau- und Heizungsinstallationen an. Zuverlässige Lösungen für Ihre Anliegen.",
+  "jahr": 2026,
+  "hero_source": "template",
+  "hero_template": "sanitaer.jpg",
+  "rechner": {
+    "titel": "Kostenrechner",
+    "untertitel": "Unverbindliche Sofort-Schätzung",
+    "posten": [
+      {
+        "name": "Reparatur / Notdienst",
+        "ab": 120,
+        "bis": 450
+      },
+      {
+        "name": "Armatur / WC tauschen",
+        "ab": 200,
+        "bis": 800
+      },
+      {
+        "name": "Badsanierung",
+        "ab": 6000,
+        "bis": 20000
+      }
+    ],
+    "hinweis": "Grobe Orientierung — Ihr genaues, kostenloses Angebot erstellen wir nach kurzer Rücksprache."
+  },
+  "site_version": "1.0",
+  "font_display": "Fraunces",
+  "font_body": "Inter",
+  "taste_applied": true,
+  "about_image": "/static/img/about_ph.svg",
+  "placeholder_images": true
+}
